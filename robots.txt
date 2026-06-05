@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://marcscama.github.io/Monte-di-Cuma/sitemap.xml
